@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Open in Another Browser",
+  "version": "1.0",
+  "description": "Open the current URL in another installed browser.",
+  "permissions": ["tabs", "nativeMessaging"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png"
+    }
+  }
+}

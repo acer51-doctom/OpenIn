@@ -1,0 +1,9 @@
+{
+  "name": "com.acer51-doctom.openurl",
+  "description": "Open URLs in external browsers",
+  "path": "__FULL_PATH_TO__/native_app.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://__EXTENSION_ID__/"
+  ]
+}
